@@ -1,14 +1,14 @@
 <h1 align="center">
   Hemlo there
-  <img src="https://github.com/fini03/fini03/blob/main/peek.png" width="40px"/>
+  <img src="https://github.com/fini03/fini03/blob/main/assets/peek.png" width="40px"/>
 </h1>
 
-![Profile Banner Image](banner.jpeg)
+![Profile Banner Image](assets/banner.jpeg)
 
 <img height="50" src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"/> About Me
 ---
 
-<img align="right" src="https://github.com/fini03/fini03/blob/main/anya3.png" width="32%" height="32%" />
+<img align="right" src="https://github.com/fini03/fini03/blob/main/assets/anya3.png" width="32%" height="32%" />
 
 <h3>A passionate raccoon from Vienna</h3>
 
