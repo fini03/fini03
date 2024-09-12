@@ -33,13 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fini03&show_icons=true&theme=onedark&locale=en" alt="fini03" /></p>
 
-<img height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Exclamation.png"/> Support
----
-
-<h5>If you like my work, feel free to ⭐ the repositories to get a free 🍪!</h5>
-
-<p><a href="https://ko-fi.com/artby_lucy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="180" alt="artby_lucy" /></a></p><br><br>
-
 <!--
 **fini03/fini03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
