@@ -13,11 +13,8 @@
 <h3>A passionate raccoon from Vienna</h3>
 
 - 👩🏻‍💻 I’m currently studying computer science
-- 🔭 I’m currently working on reverse engineering of rust programs
-- 💬 Ask me about raytracing, graphic design, animes and series
+- 🔭 I’m currently working on playing around with vulkan
 - 🎵 I like listening to Billie Eilish, Tate McRae, NF and many other artists!
-- 🍿 I love Christopher Nolan movies
-- 🫶🏻 My hobbies are drawing, traveling, watching anime, gaming and coding
 - ⚡ Fun fact: It snows metal on Venus!
 
 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Languages and Tools
@@ -39,7 +36,7 @@
 <img height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Exclamation.png"/> Support
 ---
 
-<h3>If you like my work, feel free to ⭐ the repositories to get a free 🍪!</h3>
+<h5>If you like my work, feel free to ⭐ the repositories to get a free 🍪!</h5>
 
 <p><a href="https://ko-fi.com/artby_lucy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="artby_lucy" /></a></p><br><br>
 
